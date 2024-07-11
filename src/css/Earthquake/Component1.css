@@ -1,0 +1,30 @@
+#map-content{
+    margin: 50px 20px;
+}
+#head-e-1{
+    text-align: justify;
+
+}
+#content-e-1{
+    float: left;
+    text-align: justify;
+    text-wrap: wrap;
+   
+    
+}
+#W-MAP{
+    height: 300px;
+    width:90%;
+}
+
+@media screen and (max-width: 600px){
+    #W-MAP{
+        width: 90%;
+        height: 300px;
+        padding-top: 0px
+      };
+    }
+#wrap-2{
+     display: grid;
+     
+}

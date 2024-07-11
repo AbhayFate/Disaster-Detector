@@ -1,0 +1,35 @@
+#head-2{
+    
+    padding: 0px 10px;
+    float: left;
+    width: 100%;
+    height: auto;
+    font-size:20px;
+}
+.list-element1{
+ text-align: justify;  
+ text-decoration: solid;  
+ font-family: Georgia, 'Times New Roman', Times, serif;
+ font-weight: bold; 
+ padding-right: 25px;
+    
+}
+.list-1{
+    list-style: none;
+    margin: 10px 10px;
+}
+.AI{
+    height: 500px;
+    width: 500px;
+    padding-top: 90px;
+}
+@media screen and (max-width: 412px){
+    .AI{
+        width: 90%;
+        height: auto;
+        padding-top: 0px
+      };
+    }
+.wrap1{
+    text-wrap: wrap;
+}

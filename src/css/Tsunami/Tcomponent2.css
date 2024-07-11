@@ -1,0 +1,16 @@
+#information-t{
+    margin: 80px 20px;
+  }
+  .flex-t{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+  }
+  .icons-t{
+      font-size: larger;
+      margin: 20px 0px;
+      font-weight: bolder;
+      size: 2rem;
+      content: icon;
+  }

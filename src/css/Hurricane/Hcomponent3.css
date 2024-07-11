@@ -1,0 +1,20 @@
+#plan-h{
+    padding: 80px 20px;
+}
+#head-3-h{
+    margin: 20px 0px;
+}
+.plan-content{
+    padding-top: 30px;
+    color: black;
+}
+#main-h{
+    padding: 50px 20px ;
+}
+#main-h ul{
+    list-style: none;
+    
+}
+#main-h ul li{
+    text-align: justify;
+}
